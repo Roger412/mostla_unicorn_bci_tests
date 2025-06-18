@@ -18,7 +18,7 @@ This repository contains the developed and acquired codes relevant for the data 
 - CSP unsuccessful tests
 
 - Python C API Wrapper success:
->    Must check n samples in get_data to better python live receive
+>    Must check n samples in get_data to improve python live receive
 
 - LSL receive through python with hotspot success
 

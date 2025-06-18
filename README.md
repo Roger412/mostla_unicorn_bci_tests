@@ -1,4 +1,4 @@
-# Mostla Unicron C API BCI Tests
+# Mostla Unicorn C API BCI Tests
 
 ### To Do
 

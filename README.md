@@ -9,19 +9,19 @@ This repository contains the developed and acquired codes relevant for the data 
 
 ### To Do
 
-Replicate mindmonitor in python using data acquisition C APIs 
+- Replicate mindmonitor in python using data acquisition C APIs 
 
 ### Current status
 
-WINDOWS & LINUX C API SUCCESFUL data acquisition tests
+- WINDOWS & LINUX C API SUCCESFUL data acquisition tests
 
-CSP unsuccessful tests
+- CSP unsuccessful tests
 
-Python C API Wrapper success:
-    Must check n samples in get_data to better python live receive
+- Python C API Wrapper success:
+>    Must check n samples in get_data to better python live receive
 
-LSL receive through python with hotspot success
+- LSL receive through python with hotspot success
 
-Lenovo PC with windows 10 driver NIC2 driver not working? Must figure out why or use another computer
+- Lenovo PC with windows 10 driver NIC2 driver not working? Must figure out why or use another computer
 
-NIC2 for ubuntu? the only option shown is a plugin for matlab (EEGLab)
+- NIC2 for ubuntu? the only option shown is a plugin for matlab (EEGLab)

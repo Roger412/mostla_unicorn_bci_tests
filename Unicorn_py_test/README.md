@@ -95,5 +95,4 @@ python3 unicorn_live_frequencies.py
 
 ## 📬 Contact
 
-Created by Rogelio Ruiz based on the official [Unicorn Linux C API](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black/tree/master/Unicorn%20Linux%20C%20API/x64)
-Based on Unicorn Hybrid Black Linux C API
+Created by Rogelio Ruiz based on the official [Unicorn Hybrid Black Linux C API](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black/tree/master/Unicorn%20Linux%20C%20API/x64)
